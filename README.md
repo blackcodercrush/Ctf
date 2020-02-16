@@ -1,6 +1,6 @@
 # Ctf
 
-## Usage
+## Nickname
 
 ```
 [x] Dfv47
