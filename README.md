@@ -1,4 +1,4 @@
-# Ctf
+# Ctf just for fun
 
 ## Nickname
 
